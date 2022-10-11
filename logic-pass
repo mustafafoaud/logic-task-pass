@@ -1,0 +1,3 @@
+string="string"
+strin= string.replace("g"," ")
+print(strin)
